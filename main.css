@@ -70,7 +70,13 @@ justify-content: flex-start;
 .bola:nth-child(9){
     display: flex;
     gap: 8px;
-    justify-content: ;
+    git remote add origin https://github.com/Muhammadyusuf2015/4-.git
+git branch -M main
+git push -u origin maingit remote add origin https://github.com/Muhammadyusuf2015/4-.git
+git branch -M main
+git push -u origin maingit remote add origin https://github.com/Muhammadyusuf2015/4-.git
+git branch -M main
+git push -u origin main
 }
 .bola:nth-child(10){
     display: flex;
